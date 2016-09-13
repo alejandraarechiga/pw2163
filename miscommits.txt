@@ -1,0 +1,11 @@
+commit f067cff8889680da83098a459bd22ae5c59cf5d9
+Author: alejandraarechiga <nancy_rivas_@hotmail.com>
+Date:   Fri Sep 2 11:32:41 2016 -0600
+
+    Cambio en mi readme.txt
+
+commit 821b8b57791de60865e31b4c1297e0cd783d7284
+Author: alejandraarechiga <nancy_rivas_@hotmail.com>
+Date:   Tue Aug 30 11:55:31 2016 -0600
+
+    Commit inicial con readme.txt
