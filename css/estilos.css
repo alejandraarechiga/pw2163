@@ -9,15 +9,22 @@ body/*selector -etiquetas */
 		/*atributo:valor;*/
 		border: 1px solid blue;
 		border-radius: 5px;
+		font-size: 16px; /*tamaño de fuente estandar */
 		margin: 0px auto;
 		max-width: 1024px;
 
+}
+footer
+{
+	border: 1px solid blue;
+	font-size: 0.5em;
+	text-align: center; /*alieacion de todo el texto */
 }
 
 header
 {
 	background: blue;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 	color: white; /*letra*/
 	/*padding: 0px 0px 10px 0px;*/
 	text-align:center; /*alineacion*/
@@ -25,7 +32,7 @@ header
 }
 header img{
 	float: right;
-	margin: -60px 20px 0px 0px;
+	margin: -60px 15px 0px 0px;
 	width: 100px; /*ancho de la imagen */
 
 }
@@ -48,5 +55,19 @@ header nav ul li:hover /* mouse por encima*/
 {
 background: white; /*color de fondo*/
 color:orange; /*color de letras*/
+}
+main section
+{
+	margin: 15px 0px 0px 0px ;
+
+}
+
+main section article 
+{
+	/*border:1px solid red ;*/
+	display: inline-block;
+	vertical-align: top; /* siempre debe de ir con display */
+	width: 24% ;
+
 }
 
